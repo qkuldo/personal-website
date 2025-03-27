@@ -1,0 +1,996 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"shadow",
+				"shadow_hp_sprite"
+			],
+			[
+				"mous",
+				"mouserect"
+			],
+			[
+				"sh",
+				"shadow_hp_sprite"
+			],
+			[
+				"shad",
+				"shadow_hp_sprite"
+			],
+			[
+				"shadow_",
+				"shadow_hp_rect"
+			],
+			[
+				"text",
+				"texturise"
+			],
+			[
+				"get_",
+				"get_width"
+			],
+			[
+				"inv",
+				"inv_pause"
+			],
+			[
+				"in",
+				"inv_pause"
+			],
+			[
+				"ene",
+				"enemies"
+			],
+			[
+				"hp",
+				"hp_bar"
+			],
+			[
+				"vle",
+				"vel_change"
+			],
+			[
+				"tra",
+				"transition"
+			],
+			[
+				"mod",
+				"modeOption"
+			],
+			[
+				"vel",
+				"vel_change"
+			],
+			[
+				"mode",
+				"modeOption"
+			],
+			[
+				"face",
+				"face_length"
+			],
+			[
+				"mouse",
+				"mouse_rect"
+			],
+			[
+				"s",
+				"special_update"
+			],
+			[
+				"target",
+				"target_angle"
+			],
+			[
+				"ta",
+				"target_angle"
+			],
+			[
+				"titl",
+				"title_img"
+			],
+			[
+				"blt",
+				"blt_surf"
+			],
+			[
+				"enem",
+				"enemy_spritesheets"
+			],
+			[
+				"P",
+				"Projectile"
+			],
+			[
+				"LE",
+				"LEVELINTRO"
+			],
+			[
+				"render",
+				"render_Ffloor"
+			],
+			[
+				"current",
+				"current_level"
+			],
+			[
+				"fade",
+				"fadein"
+			],
+			[
+				"K_",
+				"K_SPACE"
+			],
+			[
+				"mos",
+				"mouse_rect"
+			],
+			[
+				"mo",
+				"mouserect"
+			],
+			[
+				"m",
+				"mouse_rect"
+			],
+			[
+				"pla",
+				"player_dir"
+			],
+			[
+				"player",
+				"player_dir"
+			],
+			[
+				"g",
+				"get_pos"
+			],
+			[
+				"LEV",
+				"LEVELINTRO"
+			],
+			[
+				"ch",
+				"choose_map"
+			],
+			[
+				"ren",
+				"render_stack"
+			],
+			[
+				"a",
+				"angle"
+			],
+			[
+				"change",
+				"changed_size"
+			],
+			[
+				"im",
+				"img_size"
+			],
+			[
+				"img",
+				"img_size"
+			],
+			[
+				"spe",
+				"special_flag"
+			],
+			[
+				"en",
+				"enemies"
+			],
+			[
+				"eme",
+				"enemies"
+			],
+			[
+				"headin",
+				"heading_timer"
+			],
+			[
+				"playe",
+				"player_ammo"
+			],
+			[
+				"re",
+				"render_type"
+			],
+			[
+				"h",
+				"heading_timer"
+			],
+			[
+				"head",
+				"heading_timer"
+			],
+			[
+				"headi",
+				"heading_timer"
+			],
+			[
+				"hea",
+				"heading_timer"
+			],
+			[
+				"font",
+				"font_data"
+			],
+			[
+				"he",
+				"heading_font"
+			],
+			[
+				"ga",
+				"game_icons"
+			],
+			[
+				"pr",
+				"projectile"
+			],
+			[
+				"u",
+				"update"
+			],
+			[
+				"l",
+				"life"
+			],
+			[
+				"play",
+				"player_projectiles"
+			],
+			[
+				"__",
+				"__init__"
+			],
+			[
+				"player_",
+				"player_hit"
+			],
+			[
+				"pl",
+				"player_bullet"
+			],
+			[
+				"j",
+				"jump_cooldown"
+			],
+			[
+				"jump",
+				"jump_frames"
+			],
+			[
+				"hit",
+				"wall_hit_timer"
+			],
+			[
+				"se",
+				"seconds"
+			],
+			[
+				"ma",
+				"map_icons"
+			],
+			[
+				"cl",
+				"clicked"
+			],
+			[
+				"fac",
+				"factory_button"
+			],
+			[
+				"set",
+				"set_colorkey"
+			],
+			[
+				"S",
+				"Surface"
+			],
+			[
+				"de",
+				"debug_mode"
+			],
+			[
+				"dr",
+				"draw_throw"
+			],
+			[
+				"sc",
+				"screenstay"
+			],
+			[
+				"st",
+				"start_button"
+			],
+			[
+				"start",
+				"start_button"
+			],
+			[
+				"ex",
+				"extension"
+			],
+			[
+				"sp",
+				"special_flag_params"
+			],
+			[
+				"get",
+				"get_height"
+			],
+			[
+				"cir",
+				"circle_surf"
+			],
+			[
+				"c",
+				"circle_surf"
+			],
+			[
+				"rec",
+				"rect_surf"
+			],
+			[
+				"b",
+				"blt_surf"
+			],
+			[
+				"blt_",
+				"blt_stack"
+			],
+			[
+				"curr",
+				"current_outline"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"curre",
+				"current_outline"
+			],
+			[
+				"o",
+				"outline_mask"
+			],
+			[
+				"out",
+				"outline_mask"
+			],
+			[
+				"cu",
+				"current_outline"
+			],
+			[
+				"cur",
+				"current_outline"
+			],
+			[
+				"sk",
+				"skin_outlines"
+			],
+			[
+				"skin",
+				"skin_outlines"
+			],
+			[
+				"sha",
+				"shadow_offset"
+			],
+			[
+				"pa",
+				"pygame"
+			],
+			[
+				"ju",
+				"jump_cooldown"
+			],
+			[
+				"jum",
+				"jump_cooldown"
+			],
+			[
+				"rand",
+				"random"
+			],
+			[
+				"screen",
+				"screenshake_duration"
+			],
+			[
+				"scree",
+				"screenshake_duration"
+			],
+			[
+				"scr",
+				"screenshake"
+			],
+			[
+				"spec",
+				"special_flag_params"
+			],
+			[
+				"ve",
+				"player_change_vel"
+			],
+			[
+				"title",
+				"title_img"
+			],
+			[
+				"plaer",
+				"player_outline"
+			],
+			[
+				"rad",
+				"radius"
+			],
+			[
+				"r",
+				"radius_decrease"
+			],
+			[
+				"ra",
+				"radius_decrease"
+			],
+			[
+				"paer",
+				"particle"
+			],
+			[
+				"par",
+				"particle"
+			],
+			[
+				"pas",
+				"particles"
+			],
+			[
+				"t",
+				"time_max"
+			],
+			[
+				"time",
+				"time_min"
+			],
+			[
+				"f",
+				"fullscreen"
+			],
+			[
+				"rend",
+				"render_stack"
+			],
+			[
+				"la",
+				"layer_2"
+			],
+			[
+				"n",
+				"nlayer"
+			],
+			[
+				"layer",
+				"layer_2"
+			],
+			[
+				"ob",
+				"object"
+			],
+			[
+				"dro",
+				"drop_pos"
+			],
+			[
+				"drop",
+				"drop_pos"
+			],
+			[
+				"foll",
+				"follow_dir"
+			],
+			[
+				"follow",
+				"follow_dir"
+			],
+			[
+				"tar",
+				"targ_rect"
+			],
+			[
+				"follw",
+				"follow_pointer"
+			],
+			[
+				"cla",
+				"calculate_new_xy"
+			],
+			[
+				"pal",
+				"player_dx"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": ".gitignore",
+			"settings":
+			{
+				"buffer_size": 482,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			},
+			"undo_stack":
+			[
+				[
+					4,
+					1,
+					"insert",
+					{
+						"characters": "\n"
+					},
+					"AQAAAAAAAAAAAAAAAQAAAAAAAAAAAAAA",
+					"AgAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8"
+				],
+				[
+					4,
+					1,
+					"paste",
+					null,
+					"AQAAAAAAAAAAAAAAJQAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				"Syntax Check"
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/python3.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/User/python3.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"c",
+				"git: commit"
+			],
+			[
+				"sta",
+				"git: status"
+			],
+			[
+				"stats",
+				"git: status"
+			],
+			[
+				"gits",
+				"git: status"
+			],
+			[
+				"gitst",
+				"git: status"
+			],
+			[
+				"commi",
+				"git: commit"
+			],
+			[
+				"git s",
+				"git: status"
+			],
+			[
+				"gitignore",
+				"git: ignore pattern"
+			],
+			[
+				"git sta",
+				"git: status"
+			],
+			[
+				"gitsavv",
+				"GitSavvy: help"
+			],
+			[
+				"git",
+				"git: graph"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Arithmetic"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 214.4,
+		"history":
+		[
+			"s",
+			"print (\"hi\")"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Dell/Downloads/Games/personal-website"
+	],
+	"file_history":
+	[
+		"/C/Users/Dell/Downloads/Games/bumpgun/personal-website.sublime-project",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/sprite.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/.gitignore",
+		"/C/Users/Dell/Downloads/Games/bumpgun/game.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/main.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/bumpgun.sublime-workspace",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/groups.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/fonts/dialogue.json",
+		"/C/Users/Dell/Downloads/Games/bumpgun/assets/reference.json",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/__init__.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/hud_elements.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/bumpgun.sublime-project",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/spritesheet.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/base.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/particle.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/enemy.py",
+		"/C/Users/Dell/Downloads/Games/spritestack_tutorial/spritestack.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/handlers.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/test.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/modules/pointer.py",
+		"/C/Users/Dell/Downloads/Games/bumpgun/assets/images/player.png",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/main.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/game.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/glow.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/room.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/saves/data.json",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/enemy.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/a guide to the echo of angels.txt",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/particle.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/__init__.py",
+		"/C/Users/Dell/Downloads/Games/space_shooter/main.py",
+		"/C/Users/Dell/Downloads/Games/the echo of the angels/classes/hit_effect.py",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/my_website_color.css",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/My Website.html",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/newspage.html",
+		"/C/Users/Dell/OneDrive/Desktop/My Website/gallery.html",
+		"/C/Users/Dell/Downloads/Games/Xion/Other/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Xion/main.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/enemy.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/entity.py",
+		"/C/Users/Dell/Downloads/Games/Xion/README.md",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/particle_effects.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/particle_sys.py",
+		"/C/Users/Dell/Downloads/Games/Xion/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/bullet.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/animation/animation_effects.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/animation/animation.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/animation/__init__.py",
+		"/C/Users/Dell/AppData/Roaming/Sublime Text/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Dell/Downloads/Games/Xion/Other/Bugs.txt",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/__init__.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity/hitbox.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/particle/particle.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/entity.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/non_player_subclasses/bullet.py",
+		"/C/Users/Dell/Downloads/Games/Xion/classes/hitbox.py",
+		"/C/Users/Dell/Downloads/Untitled Document.md",
+		"/C/Users/Dell/Downloads/Games/Xion/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Xion/Bugs.txt",
+		"/C/Users/Dell/Downloads/Games/moving_guy/main.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Weapons.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Other/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Armor.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Rooms.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Character.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/README.md",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Items.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Other/BUGS.txt",
+		"/C/Users/Dell/Downloads/Games/Terrainer/Terrainer.py",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/BUGS.txt",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Changelog.txt",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/Dark Dungeon Documentation.md",
+		"/C/Users/Dell/Downloads/Dark Dungeon Documentation.md",
+		"/C/Users/Dell/Downloads/Games/Dark_Dungeon/game.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Rooms.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Character.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/main.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/game.py",
+		"/C/Users/Dell/Downloads/Games/PYDebugger.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Items.py",
+		"/C/Users/Dell/Downloads/Games/Custom Modules/CustomColors.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Armor.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Weapons.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Health_Bar.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/save.py",
+		"/C/Users/Dell/Downloads/Games/PYRun.py",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/_save",
+		"/C/Users/Dell/Downloads/Games/Dark Dungeon/Art.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Character.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Weapons.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Mist.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Healthbar.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/textstory.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/textstory_test.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Maze.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Sit Down.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Monster Slayer.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Monster Slayer",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PYRun.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PYRun Command Prompt(BETA).bat",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Adventure_To_The_Dark_World.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/pygame_mixer_test.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/pygame_mixer_test",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Dungeon Crawl.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Dungeon Crawl",
+		"/C/Users/Dell/OneDrive/Desktop/Python/music_maker.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/py_cmd_graphics.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/py_cmd_graphics_test.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/py_cmd_graphics",
+		"/C/Users/Dell/OneDrive/Desktop/My Website.html",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PyScrape.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/pysc",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Rock_Paper_Scissors.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PYRun_settings.txt",
+		"/C/Users/Dell/OneDrive/Desktop/Python/PYRun cmd.bat",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Quickpress.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Code_Generator.py",
+		"/C/Users/Dell/OneDrive/Desktop/my_website_color.css",
+		"/C/Users/Dell/OneDrive/Desktop/Python/classtest_2.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/classtest_1.py",
+		"/C/Users/Dell/OneDrive/Desktop/Python/Wardle.py",
+		"/C/Users/Dell/OneDrive/Desktop/my_website-css",
+		"/C/Users/Dell/OneDrive/Desktop/my_website",
+		"/C/Users/Dell/OneDrive/Desktop/my_website - Copy",
+		"/C/Users/Dell/OneDrive/Desktop/Things not to forget.html",
+		"/C/Users/Dell/OneDrive/Desktop/Python/HostileSort"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": ".gitignore",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 482,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								37,
+								37
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Git Formats/Git Ignore.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 30.4
+	},
+	"input":
+	{
+		"height": 119.2
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GitSavvy":
+	{
+		"height": 144.399993896
+	},
+	"output.exec":
+	{
+		"height": 138.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.show_commit_info":
+	{
+		"height": 144.399993896
+	},
+	"pinned_build_system": "",
+	"project": "personal-website.sublime-project",
+	"replace":
+	{
+		"height": 95.6
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"sp",
+				"modules\\sprite.py"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 499.8,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\Dell\\Downloads\\Games\\bumpgun\\bumpgun.sublime-project"
+			],
+			[
+				"phas",
+				"C:\\phaser\\phaser.sublime-project"
+			],
+			[
+				"my",
+				"C:\\Users\\Dell\\OneDrive\\Desktop\\My Website\\My_Website.sublime-project"
+			]
+		],
+		"width": 379.6
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 187.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
