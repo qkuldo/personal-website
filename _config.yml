@@ -1,5 +1,7 @@
 author: qkuldo
 title: my personal website
-theme: minima
+remote_theme: jekyll/minima
+plugins:
+  - jekyll-remote-theme
 minima:
   skin: dark
