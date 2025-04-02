@@ -5,3 +5,7 @@ plugins:
   - jekyll-remote-theme
 minima:
   skin: dark
+  social_links: 
+    - title: Github
+      icon: github
+      url: "https://github.com/qkuldo"
