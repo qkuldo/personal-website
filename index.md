@@ -1,3 +1,4 @@
 ---
-title: Blog
+title: qkuldo's page
+layout: home
 ---
